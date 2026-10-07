@@ -1,0 +1,41 @@
+{
+  "colorPalette": "electric-blue",
+  "axiTheme": "default",
+  "glass": false,
+  "glassSurfaces": false,
+  "generator": {
+    "app": "axibridge",
+    "version": "3.21.0"
+  },
+  "entries": [
+    {
+      "id": "20261007-232339-6xgq",
+      "title": "Pray For My Boons",
+      "commanders": [
+        "Pray For My Boons"
+      ],
+      "guild": {
+        "id": "635BBF39-8510-EB11-81AA-D66D0E22CAB6",
+        "name": "Mahameru",
+        "tag": "MHMR"
+      },
+      "dateStart": "2026-10-07T16:23:39.000Z",
+      "dateEnd": "2026-10-07T17:21:26.850Z",
+      "dateLabel": "10/7/2026, 11:23:39 PM - 10/8/2026, 12:21:26 AM",
+      "url": "https://yesiambirb.github.io/BIRB_LOGS/?report=20261007-232339-6xgq",
+      "publishedBy": "YesIamBirb",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 20,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 32
+      }
+    }
+  ]
+}
